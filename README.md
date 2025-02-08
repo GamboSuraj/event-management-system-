@@ -8,13 +8,7 @@
 
 - npm (Node Package Manager): npm is included with Node.js. It allows you to download and install packages and dependencies needed for your React project.
 
-- Git: Git is a version control system used for tracking changes in source code. You’ll need Git installed to run the React project from GitHub. Get the latest version of Git from their official website.
-
-- Now Clone the Repository and then
-  Open your terminal or command prompt.
-  Navigate to the directory where you want to store the React project.
-  Run the following command to clone the GitHub repository:
-  git clone https://github.com/programming-hero-web-course1/l2-b2-assignment-5-frontend-AbulFozolJumman.git
+- Git: Git is a version control system used for tracking changes in source code. You’ll need Git installed to run the React project from GitHub. Get the latest version of Git from their official website
 
 
 - Install Dependencies:
